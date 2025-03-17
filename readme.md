@@ -51,9 +51,6 @@
                   </td>
                 </tr>
               </table>
-            </p>
-
-            <p>
               <a name="protect"><h3 class="drac-heading drac-heading-l drac-text-white">Protect</h3></a>
               <table border=1 cols=2 width="100%" class="drac-table">
                 <tr>
@@ -247,10 +244,6 @@
                   </td>
                 </tr>
              </table>
-
-            </p>
-
-            <p>
               <a name="detect"><h3 class="drac-heading drac-heading-l drac-text-white">Detect</h3></a>
               <table border=1 cols=2 width="100%" class="drac-table">
                 <tr>
@@ -267,9 +260,6 @@
                   </td>
                 </tr>
               </table>
-            </p>
-
-            <p>
               <a name="respond"><h3 class="drac-heading drac-heading-l drac-text-white">Respond</h3></a>
               <table border=1 cols=2 width="100%" class="drac-table">
                 <tr>
@@ -291,9 +281,6 @@
                   </td>
                 </tr>
               </table>
-            </p>
-
-            <p>
               <a name="recover"><h3 class="drac-heading drac-heading-l drac-text-white">Recover</h3></a>
               <table border=1 cols=2 width="100%" class="drac-table">
                 <tr>
